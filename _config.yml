@@ -1,0 +1,59 @@
+url: https://wedding.kurin.se
+baseurl:
+
+# Site settings
+title: Lisa & Erik 2016
+email: wedding@kurin.se
+description: "Lisa och Eriks bröllop 2016"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Johan Boström
+  pic: 1
+  position: Brudens bror
+  social:
+    - title: envelope
+      url: mailto:toastmaster@kurin.se
+    - title: instagram
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/johan.bostrom.96
+
+- name: Sara Josefsson
+  pic: 2
+  position: Johans flickvän
+  social:
+    - title: envelope
+      url: mailto:toastmaster@kurin.se
+    - title: instagram
+      url: https://www.instagram.com/josefssonsara/
+    - title: facebook
+      url: https://www.facebook.com/sara.josefsson.96
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
