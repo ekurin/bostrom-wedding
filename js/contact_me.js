@@ -26,7 +26,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://docs.google.com/forms/d/1sV6FhRoBHfmvg4wZrP4qzgoZOa18ualYlYGZ0oMiX8A/formResponse",
+                url: "https://docs.google.com/forms/d/1Jbyj-fnNG38cgHlBrKwsWY9rMJHDI4D3W6tqY6-bwAg/formResponse",
                 type: "POST",
                 data: {
                     "entry.1167379487": attending,
