@@ -14,27 +14,27 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Johan Boström
+- name: Erik Kurin
   pic: 1
-  position: Brudens bror
+  position: Brudgummens svåger
   social:
     - title: envelope
       url: mailto:toastmaster@kurin.se
     - title: instagram
-      url: #
+      url: https://www.instagram.com/wutangclan/
     - title: facebook
-      url: https://www.facebook.com/johan.bostrom.96
+      url: https://www.facebook.com/kurin
 
-- name: Sara Josefsson
+- name: Lisa Kurin
   pic: 2
-  position: Johans flickvän
+  position: Johans syster
   social:
     - title: envelope
       url: mailto:toastmaster@kurin.se
     - title: instagram
-      url: https://www.instagram.com/josefssonsara/
+      url: # 
     - title: facebook
-      url: https://www.facebook.com/sara.josefsson.96
+      url: https://www.facebook.com/lisa.kurin
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
