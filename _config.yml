@@ -8,8 +8,8 @@ description: "Johan och Saras bröllop 2020"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503
+  primary: CAB692
+  secondary: bda97a
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -32,7 +32,7 @@ people:
     - title: envelope
       url: mailto:toastmaster@kurin.se
     - title: instagram
-      url: # 
+      url: #
     - title: facebook
       url: https://www.facebook.com/lisa.kurin
 

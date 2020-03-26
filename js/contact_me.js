@@ -19,7 +19,6 @@ $(function() {
             var allergies = $("input#allergies").val();
             var allergiesPartner = $("input#allergies-partner").val();
             var message = $("textarea#message").val();
-            var fridayAttend = $("input#attending-friday").is(':checked');
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
@@ -37,7 +36,6 @@ $(function() {
                     "entry.1305681393": allergies,
                     "entry.1054903899": allergiesPartner,
                     "entry.1286098234": message,
-                    "entry.296385398": fridayAttend
                 },
                 dataType: "xml",
                 cache: false,
